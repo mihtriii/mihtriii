@@ -18,7 +18,7 @@ I’m a first‑year AI student with a strong interest in **Computer Vision** an
 ---
 
 ## 🎓 Education
-- **FPT University Ho Chi Minh City (FPTU HCM)** — BSc in **Artificial Intelligence** *(Cohort K21)*  
+- **FPT University Ho Chi Minh City (FPTU HCM)** — BSc in **Artificial Intelligence** *(Cohort K20)*  
   *2024 – present*
   
 <!-- Optionally add GPA / notable coursework here -->
@@ -62,8 +62,6 @@ I’m a first‑year AI student with a strong interest in **Computer Vision** an
 - **Mini‑VLM Playground** — small‑scale retrieval/grounding demos with clear benchmarks.
 - **QML for Vision** — toy datasets (MNIST/CIFAR) with hybrid quantum‑classical baselines.
 - **Edge‑friendly CV** — distilled/quantized models for edge inference.
-
-*(Once public, each project will include: short abstract, tech stack, metrics, demo GIF, and a clean README.)*
 
 ---
 
