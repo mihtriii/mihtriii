@@ -10,7 +10,6 @@
 I’m a first‑year AI student with a strong interest in **Computer Vision** and **Vision‑Language Models (VLMs)**. My long‑term plan is a research‑oriented path toward an **AI PhD**, with a current focus on **Quantum Machine Learning (QML)** and practical, applied VLM systems.
 
 - 🎯 **Near‑term goals (2024–2026):**
-  - Publish a **workshop paper** at **ICCV 2025**.
   - Achieve **at least one A\*** conference paper by the end of my **sophomore year**.
   - Attend/participate in relevant CV/ML conferences and workshops.
 - 🧭 **Research focus:** Vision‑Language Models (VLMs), Applied VLMs (retrieval, grounding, reasoning), Quantum ML for vision tasks.
