@@ -77,13 +77,5 @@ I’m a first‑year AI student with a strong interest in **Computer Vision** an
 
 ## 📫 Contact & Links
 - **Email**: mihtriii295@gmail.com  
-- *(Optional)* Google Scholar · ORCID · LinkedIn · Personal site  
-  <!-- Add the links above when ready -->
-
 ---
-
-### Notes for future me (to keep this README tidy)
-- When a project goes public: add **badges**, **screenshots/GIFs**, and **clear setup instructions**.
-- Keep a short **changelog** of milestones (accepted workshop, hackathon results, new preprint).
-- Split academic vs. dev‑friendly sections if needed (two variants of README).
 
