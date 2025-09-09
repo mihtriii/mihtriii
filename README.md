@@ -2,7 +2,7 @@
 
 > Freshman @ **FPT University HCMC (FPTU HCM)** · AI PhD-track (long-term) · **Computer Vision & Vision-Language Models** · **Quantum Machine Learning**
 
-[Email](mailto:mihtriii295@gmail.com) · <!-- Add later: [Website](https://mihtriii-page.vercel.app/) · [Google Scholar](#) · [ORCID](#) · [LinkedIn](#) · [X/Twitter](#) -->
+[Email](mailto:mihtriii295@gmail.com) · <!-- Add later: [Website](#) · [Google Scholar](#) · [ORCID](#) · [LinkedIn](#) · [X/Twitter](#) -->
 
 ---
 
@@ -17,7 +17,7 @@ I’m a first-year AI student passionate about **Computer Vision** and **Vision-
 ---
 
 ## 🎓 Education
-- **FPT University Ho Chi Minh City (FPTU HCM)** — BSc in **Artificial Intelligence** *(Cohort K21)*  
+- **FPT University Ho Chi Minh City (FPTU HCM)** — BSc in **Artificial Intelligence** *(Cohort K20)*  
   *2024 – present*
 
 <!-- Optionally add GPA / notable coursework here -->
